@@ -1,5 +1,5 @@
 {
-  "name": "my-monorepo",
+  "name": "fullstack-boilerplate-nest-next",
   "private": true,
   "scripts": {
     "build": "turbo run build",
